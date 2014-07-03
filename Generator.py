@@ -51,7 +51,6 @@ def main():
         if str.strip() <> '':
             a_p(str)
                    
-        
 if __name__ == '__main__':
     main()
 
